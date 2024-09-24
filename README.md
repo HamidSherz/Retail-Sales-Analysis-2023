@@ -16,7 +16,7 @@ Insights and recommendations are provided on the following key areas:
 - **Customer Behaviour Insights:** Understanding how customer engagement has changed.
 - **Weekly Sales Patterns:** Analysing fluctuations in sales and profits on a weekly basis.
 
-The SQL queries used to inspect and clean the data for this analysis can be found [here](#).
+The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/HamidSherz/Retail-Sales-Analysis-2023/blob/main/data_cleanup.sql).
 Targeted SQL queries regarding various business questions can be found [here](#).
 An interactive Tableau dashboard used to report and explore sales trends can be found [here](#).
 
