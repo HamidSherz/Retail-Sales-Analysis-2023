@@ -20,7 +20,7 @@ The SQL queries used to inspect and clean the data for this analysis can be foun
 
 An interactive Tableau dashboard used to report and explore sales trends can be found [here](https://public.tableau.com/app/profile/hamid.sherzai/viz/SalesCustomerDashboardsDynamic_17271980557950/SalesDashboard).
 
-## Data Structure & Initial Checks
+## Data Structure
 The company’s main database structure consists of four tables, with a total row count of approximately 10,000 records. A description of each table is as follows:
 
 ![ERD](visuals/ERD.JPG)
