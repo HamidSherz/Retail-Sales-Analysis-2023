@@ -4,21 +4,21 @@
 This analysis was conducted for a company operating in the retail industry, focusing on a diverse range of products including office supplies, electronics, and furniture. The company employs a multi-channel business model, selling directly to consumers through both online and physical stores. With the data primarily focusing on the years 2022 and 2023, our aim was to uncover actionable insights to drive sales strategies and enhance customer satisfaction. Key business metrics include total sales, profits, and customer behavior trends.
 
 Our **North Star** metric for this project is **Total Sales**, as it directly reflects the company's revenue-generating capabilities and overall business health. The key performance indicators (KPIs) we tracked include:
-- **Total Profits**
-- **Total Quantity Sold**
-- **Total Orders**
-- **Number of Customers**
-- **Sales per Customer**
+- Total Profits
+- Total Quantity Sold
+- Total Orders
+- Number of Customers
+- Sales per Customer
 
 Insights and recommendations are provided on the following key areas:
-- **Sales Performance Comparison:** Analysing year-over-year sales trends.
-- **Profitability Analysis:** Identifying which categories drive profits.
-- **Customer Behaviour Insights:** Understanding how customer engagement has changed.
-- **Weekly Sales Patterns:** Analysing fluctuations in sales and profits on a weekly basis.
+- Sales Performance Comparison: Analysing year-over-year sales trends.
+- Profitability Analysis: Identifying which categories drive profits.
+- Customer Behaviour Insights: Understanding how customer engagement has changed.
+- Weekly Sales Patterns: Analysing fluctuations in sales and profits on a weekly basis.
 
-The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/HamidSherz/Retail-Sales-Analysis-2023/blob/main/data_cleanup.sql).
+The **SQL queries** used to inspect and clean the data for this analysis can be found [here](https://github.com/HamidSherz/Retail-Sales-Analysis-2023/blob/main/data_cleanup.sql).
 
-An interactive Tableau dashboard used to report and explore sales trends can be found [here](https://public.tableau.com/app/profile/hamid.sherzai/viz/SalesCustomerDashboardsDynamic_17271980557950/SalesDashboard).
+An interactive **Tableau dashboard** used to report and explore sales trends can be found [here](https://public.tableau.com/app/profile/hamid.sherzai/viz/SalesCustomerDashboardsDynamic_17271980557950/SalesDashboard).
 
 ## Data Structure
 The company’s main database structure consists of four tables, with a total row count of approximately 10,000 records. A description of each table is as follows:
