@@ -16,14 +16,15 @@ Insights and recommendations are provided on the following key areas:
 - Customer Behaviour Insights: Understanding how customer engagement has changed.
 - Weekly Sales Patterns: Analysing fluctuations in sales and profits on a weekly basis.
 
-The **SQL queries** used to inspect and clean the data for this analysis can be found [here](https://github.com/HamidSherz/Retail-Sales-Analysis-2023/blob/main/data_cleanup.sql).
 
-An interactive **Tableau dashboard** used to report and explore sales trends can be found [here](https://public.tableau.com/app/profile/hamid.sherzai/viz/SalesCustomerDashboardsDynamic_17271980557950/SalesDashboard).
+A set of interactive **Tableau dashboards** used to report and explore sales trends can be found [here](https://public.tableau.com/views/SalesCustomerDashboardsDynamic_17296122448070/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Data Structure
 The company’s main database structure consists of four tables, with a total row count of approximately 10,000 records. A description of each table is as follows:
 
 ![ERD](visuals/ERD.JPG)
+
+The **SQL queries** used to inspect and clean the data for this analysis can be found [here](https://github.com/HamidSherz/Retail-Sales-Analysis-2023/blob/main/data_cleanup.sql).
 
 ## Executive Summary
 This analysis reveals a significant increase in total sales from 2022 to 2023, highlighting a growth of approximately 20%. Notably, categories such as Phones and Appliances demonstrated impressive growth rates, while certain subcategories, like Machines and Envelopes, showed a decline. These insights suggest a need for targeted marketing strategies to boost performance in underperforming categories.
