@@ -1,7 +1,7 @@
-# Retail Sales Data Analysis
+# Sales Trend Analysis: 2022 vs. 2023
 
 ## Project Background
-This analysis was conducted for a company operating in the retail industry, focusing on a diverse range of products including office supplies, electronics, and furniture. The company employs a multi-channel business model, selling directly to consumers through both online and physical stores. With the data primarily focusing on the years **2022 and 2023**, our aim was to uncover actionable insights to drive sales strategies and enhance customer satisfaction. Key business metrics include Total Sales, Profits, and Customer Behavior Trends.
+This analysis was conducted for a company operating in the consumer goods industry, focusing on a diverse range of products including office supplies, electronics, and furniture. The company employs a multi-channel business model, selling directly to consumers through both online and physical stores. With the data primarily focusing on the years **2022 and 2023**, our aim was to uncover actionable insights to drive sales strategies and enhance customer satisfaction. Key business metrics include Total Sales, Profits, and Customer Behavior Trends.
 
 Our **North Star** metric for this project is **Total Sales**, as it directly reflects the company's revenue-generating capabilities and overall business health. The key performance indicators (KPIs) we tracked include:
 - Total Profits
